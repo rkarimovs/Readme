@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I'm Rihards 👋</h1>
-<h3 align="center">A young student and developer from Latvia eager to learn and excel in IT</h3>
+<h1 align="center">Hi, I'm Rihards 👋</h1>
+<h3 align="center">A student and DevOps & IE from LatviaT</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rkarimovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkarimovs" height="30" width="40" /></a>
-<a href="https://discord.gg/Egil Levar#9227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Egil Levar#9227" height="30" width="40" /></a>
+<a href="https://discord.gg/daytonagotshot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Egil Levar#9227" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rkarimovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkarimovs" height="30" width="40" /></a>
 </p>
 
